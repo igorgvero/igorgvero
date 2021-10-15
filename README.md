@@ -1,9 +1,9 @@
-### Hello 👋 from @igorgvero
+### 👋 from @igorgvero
 <img src="https://user-images.githubusercontent.com/46729371/127727116-b9d3c90a-43fe-4379-a418-5e75aaf756cd.png" width="300" />
 
-- 🔭 I’m currently working on SAST/DAST/SCA scanning and GH Actions 💯
-- 🌱 I’m currently learning Docker DCA and K8S CKA 📖
-- 👯 I’m looking to collaborate on AppSec and 🔒 SDLC
+- 🔭 AppSec SAST/DAST/SCA scanning and GH Actions 💯
+- 🌱 Mastering Docker DCA and K8S CKA 📖
+- 👯 Looking to collaborate on AppSec and 🔒 SDLC
 - 💬 Ask me about 🎏
 - 📫 How to reach me: DM ✍️
 - ⚡ Fun fact: Love geography! 🌎
