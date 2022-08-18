@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/46729371/185280172-af8c1610-0bfd-4220-8a3f-44a08842e4b7.png" width="300" />
 
-- 🔭 AppSec SAST/DAST/SCA scanning and GH Actions 💯
-- 🌱 Mastering Docker DCA and K8S CKA 📖
+- 🔭 AppSec CodeQL/Dependabot/Secret scanning and GH Actions 💯
 - 👯 Looking to collaborate on AppSec and 🔒 SDLC
 - 💬 Ask me about 🎏
 - 📫 How to reach me: DM ✍️
