@@ -1,5 +1,6 @@
 ### 👋 from @igorgvero
-<img src="https://user-images.githubusercontent.com/46729371/127727116-b9d3c90a-43fe-4379-a418-5e75aaf756cd.png" width="300" />
+
+<img src="https://user-images.githubusercontent.com/46729371/185280172-af8c1610-0bfd-4220-8a3f-44a08842e4b7.png" width="300" />
 
 - 🔭 AppSec SAST/DAST/SCA scanning and GH Actions 💯
 - 🌱 Mastering Docker DCA and K8S CKA 📖
